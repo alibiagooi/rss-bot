@@ -6,7 +6,7 @@ import os
 from telegram import ParseMode
 
 # تنظیمات اولیه
-TOKEN = "8002277995:AAHFmq1E6xueGSocZzw48XS26hzxvkoC_tY"  # توکن باتت رو اینجا بذار
+TOKEN = ""  # توکن باتت رو اینجا بذار
 CHANNEL_ID = "@alkawtharrrrr"  # اسم کانالت رو اینجا بذار (با @)
 RSS_URL = "https://www.alkawthartv.ir/rss/latest"  # آدرس فید RSS رو اینجا بذار
 CHECK_INTERVAL = 15 * 60  # 15 دقیقه به ثانیه
